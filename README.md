@@ -1,3 +1,5 @@
+![Alt Text](https://www.canva.com/design/DAFi5CNy7Es/view)
+
 👋 Hi there! I'm Michal, an IT Business Analyst with a passion for data analysis and cloud architecture. My journey started with analyzing cost data, and now I'm diving into the exciting world of IT and business integration.
 
 ### Tools 🛠️
