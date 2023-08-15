@@ -31,7 +31,7 @@ Connect with me on [LinkedIn](<https://www.linkedin.com/in/mleszczynski1177/>).
 
 👓 **Personal Touch**: 
 
-I'm on a continuous self-development journey. Fun fact: I once ran my own startup, specializing in creating corrective lens adapters for VR headsets.
+Fun fact: I once ran my own startup, specializing in creating corrective lens adapters for VR headsets.
 
 Let's collaborate and build great things together! 🌟
 
