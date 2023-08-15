@@ -11,8 +11,8 @@
 ### Skills 🌐
 - **Business Analysis & Process Improvement:** ★★★★★ 📈
 - **Requirements Gathering:★★★★★** 📋
-- **Data Analysis & Visualization:** ★★★☆☆
 - **Project Management:** ★★★★☆ 📆
+- **Data Analysis & Visualization:** ★★★☆☆
 - **Cloud Architecture:** ★★★☆☆ ☁️
 - **Integration Architecture:** ★★☆☆☆
 - **API Management:** ★★☆☆☆
