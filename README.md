@@ -13,7 +13,7 @@
 - **Requirements Gathering:★★★★★** 📋
 - **Data Analysis & Visualization:** ★★★☆☆
 - **Project Management:** ★★★★☆ 📆
-- **Cloud Architecture Fundamentals:** ★★★☆☆ ☁️
+- **Cloud Architecture:** ★★★☆☆ ☁️
 - **Integration Architecture:** ★★☆☆☆
 - **API Management:** ★★☆☆☆
 
