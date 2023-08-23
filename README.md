@@ -9,13 +9,13 @@
 + Process & Design: Process Design 🔄 | Basic UML 📐
 
 ### Skills 🌐
-- **Business Analysis & Process Improvement:** ★★★★★ 📈
-- **Requirements Gathering:★★★★★** 📋
-- **Project Management:** ★★★★☆ 📆
-- **Data Analysis & Visualization:** ★★★☆☆
-- **Cloud Architecture:** ★★★☆☆ ☁️
-- **Integration Architecture:** ★★☆☆☆
-- **API Management:** ★★☆☆☆
+- Business Analysis & Process Improvement:** ★★★★★ 📈
+- Requirements Gathering:★★★★★** 📋
+- Project Management:** ★★★★☆ 📆
+- Data Analysis & Visualization:** ★★★☆☆
+- Cloud Architecture:** ★★★☆☆ ☁️
+- Integration Architecture:** ★★☆☆☆
+- API Management:** ★★☆☆☆
 
 📊 **Projects**: 
 
@@ -29,9 +29,9 @@ Refining my data analysis skills, and I've got my eyes set on mastering cloud ar
 
 Connect with me on [LinkedIn](<https://www.linkedin.com/in/mleszczynski1177/>).
 
-👓 **Personal Touch**: 
+👓 **Fun fact**: 
 
-Fun fact: I once ran my own startup, specializing in creating corrective lens adapters for VR headsets.
+I once ran my own startup, specializing in creating corrective lens adapters for VR headsets.
 
 Let's collaborate and build great things together! 🌟
 
