@@ -9,13 +9,13 @@
 + Process & Design: Process Design 🔄 | Basic UML 📐
 
 ### Skills 🌐
-- Business Analysis & Process Improvement:** ★★★★★ 📈
-- Requirements Gathering:★★★★★** 📋
-- Project Management:** ★★★★☆ 📆
-- Data Analysis & Visualization:** ★★★☆☆
-- Cloud Architecture:** ★★★☆☆ ☁️
-- Integration Architecture:** ★★☆☆☆
-- API Management:** ★★☆☆☆
+- Business Analysis & Process Improvement: ★★★★★ 📈
+- Requirements Gathering:★★★★★ 📋
+- Project Management: ★★★★☆ 📆
+- Data Analysis & Visualization: ★★★☆☆
+- Cloud Architecture: ★★★☆☆ ☁️
+- Integration Architecture: ★★☆☆☆
+- API Management: ★★☆☆☆
 
 📊 **Projects**: 
 
