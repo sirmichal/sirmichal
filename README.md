@@ -9,15 +9,15 @@
 + Process & Design: Process Design 🔄 | Basic UML 📐
 
 ### Skills 🌐
-- Business Analysis & Process Improvement: ★★★★★ 📈
+- Business Analysis & Process Improvement: ★★★★★ 🔍
 - Requirements Gathering:★★★★★ 📋
 - Project Management: ★★★★☆ 📆
-- Data Analysis & Visualization: ★★★☆☆
+- Data Analysis & Visualization: ★★★☆☆ 💾
 - Cloud Architecture: ★★★☆☆ ☁️
 - Integration Architecture: ★★☆☆☆
 - API Management: ★★☆☆☆
 
-📊 **Projects**: 
+📔 **Projects**: 
 
 Feel free to see my showcase portfolio.
 
@@ -25,7 +25,7 @@ Feel free to see my showcase portfolio.
 
 Refining my data analysis skills, and I've got my eyes set on mastering cloud architecture. Always learning, always growing!
 
-📧 **Contact**: 
+📯 **Contact**: 
 
 Connect with me on [LinkedIn](<https://www.linkedin.com/in/mleszczynski1177/>).
 
