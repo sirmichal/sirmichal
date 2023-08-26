@@ -19,7 +19,7 @@
 
 📔 **Projects**: 
 
-Feel free to see my showcase portfolio.
+Feel free to see my showcase [portfolio](https://github.com/sirmichal/Portfolio).
 
 🌱 **Interests**: 
 
