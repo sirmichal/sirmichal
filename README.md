@@ -4,18 +4,19 @@
 
 ### Tools 🛠️
 + Cloud: Fundamentals ☁️ | Azure DevOps 🚀
-+ Collaboration: Confluence & Jira 📚 | SharePoint 📊 | Scrum 📈
++ Collaboration: Confluence & Jira 📚 | SharePoint 📊 
 + Data Analysis: Excel 🔢 | Power BI 📊 | SQL 🗃️ 
-+ Process & Design: Process Design 🔄 | Basic UML 📐
++ Process & Design: Process Design 🔄 | Visio 📐 | Basic UML 🧰
 
 ### Skills 🌐
 - Business Analysis & Process Improvement: ★★★★★ 🔍
 - Requirements Gathering:★★★★★ 📋
+- Scrum: ★★★★★ 🎡
 - Project Management: ★★★★☆ 📆
+- API Management: ★★★☆☆ 🔌
 - Data Analysis & Visualization: ★★★☆☆ 💾
 - Cloud Architecture: ★★★☆☆ ☁️
 - Integration Architecture: ★★☆☆☆
-- API Management: ★★☆☆☆
 
 📔 **Projects**: 
 
